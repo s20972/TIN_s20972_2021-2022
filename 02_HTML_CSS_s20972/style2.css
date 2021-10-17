@@ -1,0 +1,38 @@
+*{
+		font-family: 'Source Sans Pro', sans-serif;
+}
+.container{
+	width: 90%;
+	height: 500px;
+	opacity: 0.9;
+	margin: 0 auto;
+	background-color: #e3e3e3;
+	background-image: url("https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__480.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+h5{
+	padding-top: 10px;
+	font-size: 22px;
+	margin-left: 10px;
+	text-decoration:underline;
+	color: red;
+}
+p{
+	margin-left: 20px;
+	border: 1px solid #595959;
+	background-color: #fadcdc;
+	padding: 20px;
+}
+a:hover{
+	color: white;
+}
+
+a{
+	color: blue;
+}
+img{
+	width: 100%;
+
+}

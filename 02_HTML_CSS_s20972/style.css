@@ -1,0 +1,8 @@
+input{
+	font-size: q0px;
+	color: grey;
+	font-style: italic;
+}
+.mandatory{
+	color: red;
+}
