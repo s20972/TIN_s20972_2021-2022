@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@600&display=swap');
+
+body{
+}
+.header_img{
+	filter: drop-shadow(10px 10px 4px black);
+	border-radius: 5%;
+	transform: rotate(5deg);
+	margin: 0 auto;
+}
+header{
+	width: 55%;
+	margin: 0 auto;
+}
+h1{
+	text-align: center;
+}
+aside{
+	float: left;
+	width:20%;
+}
+article{
+	font-family: 'Heebo', sans-serif;
+	float: left;
+	width: 80%;
+	column-count: 5;
+	text-align: justify;;
+}
+.gallery{
+	width:70%;
+}
+section{
+	margin-top: 50px;
+}
+.paragraf_img{
+	width: 50%;
+}
+blockquote{
+	color: red;
+	padding: 3%;
+	font-family: 'Georama', sans-serif;
+}
+figcaption{
+	font-family: 'Georama', sans-serif;
+}
+footer{
+	clear: both;
+    position: relative;
+	background-color: #dedede;
+	margin-top: 100px;
+	font-family: 'Heebo', sans-serif;
+	text-align: center;
+}
+
