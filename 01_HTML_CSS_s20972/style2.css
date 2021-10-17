@@ -1,0 +1,16 @@
+.column {
+  float: left;
+  width: 40%;
+  margin-left: 5%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+img{
+	float: left;
+	margin: 5px;
+	width:300px;
+}
