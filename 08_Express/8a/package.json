@@ -1,0 +1,14 @@
+{
+  "name": "8a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "8a.js",
+  "scripts": {
+    "test": "node 8a.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

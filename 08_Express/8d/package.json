@@ -1,0 +1,15 @@
+{
+  "name": "8d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "8d.js",
+  "scripts": {
+    "test": "node 8d.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
